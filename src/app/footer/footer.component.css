@@ -1,0 +1,22 @@
+footer.footer-main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: lightblue;
+    float: left;
+    width: 100%;
+    /* position: absolute;
+    bottom: 0; */
+}
+
+.footer-social-main-icons {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.footer-social-main-icons .fa {
+    padding: 0.5rem;
+}
+

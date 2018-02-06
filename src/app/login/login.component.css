@@ -1,0 +1,35 @@
+.form.login {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.form.login .field-wrap {
+    padding: 1rem;
+}
+
+.form.login .field-wrap.password {
+    padding: 1rem 1rem 0 1rem;
+}
+
+.field-wrap.email-id label {
+    margin-right: 2rem;
+}
+
+.form.login p.forgot {
+    display: flex;
+    justify-content: flex-end;
+    padding: 0 1rem 0 0;
+}
+
+.form.login form .login-button {
+    margin: 0 0 2rem 0;
+}
+
+.login-button-main {
+    display: flex;
+    justify-content: center;
+    padding: 1rem 0 0 0;
+}
+
